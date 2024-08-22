@@ -15,3 +15,11 @@ dotnet watch run (Executa o programa com detalhes) </br>
 <h3>TEMA</h3>
 
 Ler o capitulo 1 do Livro. </br>
+
+</br>
+
+<h3>O objeto é definido por: </h3>
+
+- Propriedades / Atributos
+- Ações / Componentes
+- + Métodos / Procedimentos / Funções
