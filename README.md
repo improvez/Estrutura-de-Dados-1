@@ -23,3 +23,9 @@ Ler o capitulo 1 do Livro. </br>
 - Propriedades / Atributos
 - Ações / Componentes
 - + Métodos / Procedimentos / Funções
+
+<h3>Tema</h3>
+
+- Paginas 35 até 42 
+- Fazer o exercicio na pasta de atividades
+
