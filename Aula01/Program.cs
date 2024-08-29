@@ -33,3 +33,4 @@ Console.WriteLine($"A semana tem {DAYS_IN_WEEK} dias.");
 TipoEnumerador tipoEnum = new TipoEnumerador();
 TipoEnumerador.Language enumEnglish = tipoEnum.GetLanguageEnum("inglês");
 Console.WriteLine($"O enum de english é {enumEnglish}");
+
