@@ -29,3 +29,11 @@ Ler o capitulo 1 do Livro. </br>
 - Paginas 35 até 42 
 - Fazer o exercicio na pasta de atividades
 
+## Aula 02
+
+- TAD: Tipo Abstrato de Dados
+
+## Atividade
+
+Escreva um algoritmo que armazena em dois vetores separados os primeiros 10 numeros pares e impares.
+No final, imprima a sequência armazena em cada um deles.
