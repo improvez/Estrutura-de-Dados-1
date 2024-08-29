@@ -30,4 +30,18 @@ foreach(string m in months) {
     Console.WriteLine(m);
 }
 
-Console.WriteLine(names[2]);
+int[] numberList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+int[] parLista = [];
+int[] imparLista = [];
+int counter = 0;
+foreach(int num in numberList) {
+    if (num % 2 == 0) {
+        parLista[counter] = num;
+    } else {
+        imparLista[counter] = num;
+    }
+    counter++;
+}
+
+Console.WriteLine(parLista.Length);
+Console.WriteLine(imparLista.Length);
