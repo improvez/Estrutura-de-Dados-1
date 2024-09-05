@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiDimensionalArray", "MultiDimensionalArray.csproj", "{A45689C6-1389-4CFD-A5D2-01B2B677C52E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaSimples", "ListaSimples.csproj", "{ACD2AAD8-7C29-4770-8B75-7E56EF59734B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A45689C6-1389-4CFD-A5D2-01B2B677C52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A45689C6-1389-4CFD-A5D2-01B2B677C52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A45689C6-1389-4CFD-A5D2-01B2B677C52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A45689C6-1389-4CFD-A5D2-01B2B677C52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD2AAD8-7C29-4770-8B75-7E56EF59734B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD2AAD8-7C29-4770-8B75-7E56EF59734B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD2AAD8-7C29-4770-8B75-7E56EF59734B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD2AAD8-7C29-4770-8B75-7E56EF59734B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {62C92306-6048-4386-ADA2-A6DB94E44B7A}
+		SolutionGuid = {D6669465-6EF9-46AA-8AFF-A3B76143D368}
 	EndGlobalSection
 EndGlobal
