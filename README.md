@@ -37,3 +37,16 @@ Ler o capitulo 1 do Livro. </br>
 
 Escreva um algoritmo que armazena em dois vetores separados os primeiros 10 numeros pares e impares.
 No final, imprima a sequência armazena em cada um deles.
+
+## Anotações
+
+A principal diferença entre o ArrayList e o List é que o primeiro NÃO É FORTEMENTE TIPADO.
+
+## Atividade
+
+Crie um novo projeto para um programa que armazene em uma lista informações sobre livros, como Nome, Editora, Autor e Número de Páginas.
+Preencha esta lista com no minimo 5 livros e ao final percorra esta lista e imprima as informações do livro com o maior numero de paginas.
+
+## Tema 
+
+Implementar um projeto para Listas Linkada circulares - No forum
