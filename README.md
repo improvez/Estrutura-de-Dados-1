@@ -50,3 +50,7 @@ Preencha esta lista com no minimo 5 livros e ao final percorra esta lista e impr
 ## Tema 
 
 Implementar um projeto para Listas Linkada circulares - No forum
+
+## Estudar
+
+Estudar o Capitulo 4 dicionarios
