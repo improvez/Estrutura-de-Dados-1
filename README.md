@@ -53,4 +53,4 @@ Implementar um projeto para Listas Linkada circulares - No forum
 
 ## Estudar
 
-Estudar o Capitulo 4 dicionarios
+Estudar o Capitulo 4 dicionarios.
