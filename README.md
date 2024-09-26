@@ -54,3 +54,12 @@ Implementar um projeto para Listas Linkada circulares - No forum
 ## Estudar
 
 Estudar o Capitulo 4 dicionarios.
+
+## Tarefa
+
+Escreva um programa para auxiliar empregadores de uma loja para encontrar a localização em que um produto deveria se encontrar, imagine que 
+cada um empregador tem um telefone com a sua aplicação, que deve ser usada para escanear um código do produto e lhes dizer em que prateleira ele 
+deve estar, nomeadas de "A1" á "Z9". Para resolver este problema devemos armazenar os dados, em uma tabela hash utilizando a classe do tipo
+dicionário, a chave deve ser uma string para o código de barras, e o valor a localização da prateleira. Faça a calha de no minimo 20 produtos contendo 5 
+em cada prateleira diferente. O seu programa deve perguntar ao usuário o código do produto e responder a localização da prateleira. Não se esqueça de tratar
+os erros e tratar mensagens obscuras para os empregadores.

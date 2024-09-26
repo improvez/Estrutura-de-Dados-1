@@ -53,8 +53,7 @@ public static class CircularLinkedListExtensions
     }
 }
 
-CircularLinkedList<string> categories =
-    new CircularLinkedList<string>();
+CircularLinkedList<string> categories = new CircularLinkedList<string>();
 categories.AddLast("Sport");
 categories.AddLast("Culture");
 categories.AddLast("History");
@@ -71,9 +70,7 @@ foreach (string category in categories)
 {
     if (remainingTime <= 0)
     {
-        Console.WriteLine("Press [Enter] to start
-        
-                    or any other to exit.");
+        Console.WriteLine("Press [Enter] to start or any other to exit.");
         switch (Console.ReadKey().Key)
         {
             case ConsoleKey.Enter:
