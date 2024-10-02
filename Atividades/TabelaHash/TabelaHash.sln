@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabelaHash", "TabelaHash.csproj", "{E7214482-F757-414C-BD81-93CC52B5D8AC}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabelaHash", "TabelaHash.csproj", "{D54DE613-9424-445C-AAEA-EE1EC755E949}"
+>>>>>>> 778928ddfd19a3803f6d684c79b13d91bc56521a
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{E7214482-F757-414C-BD81-93CC52B5D8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E7214482-F757-414C-BD81-93CC52B5D8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7214482-F757-414C-BD81-93CC52B5D8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7214482-F757-414C-BD81-93CC52B5D8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{D54DE613-9424-445C-AAEA-EE1EC755E949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54DE613-9424-445C-AAEA-EE1EC755E949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54DE613-9424-445C-AAEA-EE1EC755E949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54DE613-9424-445C-AAEA-EE1EC755E949}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 778928ddfd19a3803f6d684c79b13d91bc56521a
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {C9A60138-F579-4107-B43A-6CB66AF11499}
+=======
+		SolutionGuid = {48A7DF4E-91DD-45E1-8BF3-FC05469FC980}
+>>>>>>> 778928ddfd19a3803f6d684c79b13d91bc56521a
 	EndGlobalSection
 EndGlobal
