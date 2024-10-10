@@ -63,3 +63,7 @@ deve estar, nomeadas de "A1" á "Z9". Para resolver este problema devemos armaze
 dicionário, a chave deve ser uma string para o código de barras, e o valor a localização da prateleira. Faça a calha de no minimo 20 produtos contendo 5 
 em cada prateleira diferente. O seu programa deve perguntar ao usuário o código do produto e responder a localização da prateleira. Não se esqueça de tratar
 os erros e tratar mensagens obscuras para os empregadores.
+
+## Atividade
+
+Cria a classe inserctionSort - Pagina 52 criar um exemplo
