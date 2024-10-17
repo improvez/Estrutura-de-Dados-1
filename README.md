@@ -67,3 +67,14 @@ os erros e tratar mensagens obscuras para os empregadores.
 ## Atividade
 
 Cria a classe inserctionSort - Pagina 52 criar um exemplo
+
+## Trabalho 
+
+Counting Sort
+
+1- Pontos positivo
+2- Ponto negativos
+3- Casos de uso
+4- Implementação
+5- História
+6- Comparação
