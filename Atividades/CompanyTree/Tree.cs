@@ -12,7 +12,7 @@ namespace CompanyTree
         
         public void PrintTree(TreeNode<T> node) {
             Console.WriteLine($"Level: {node.GetHeight()}");
-            Console.WriteLine($"Node: { node.Data.ToString()}");
+            Console.WriteLine($"Node: { node.Data!.ToString()}");
             Console.WriteLine();
 
             if(node.Children!.Count() > 0) {
