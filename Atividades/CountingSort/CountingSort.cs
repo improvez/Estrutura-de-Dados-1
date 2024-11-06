@@ -10,6 +10,7 @@ namespace CountingSort {
         int m = 0;
 
         for (int i = 0; i < n; i++) m = Math.Max(m, inputArray[i]);
+        
         List<int> countArray = new List<int>(new int[m + 1]);
 
         for (int i = 0; i < n; i++) countArray[inputArray[i]]++;
@@ -26,3 +27,5 @@ namespace CountingSort {
         }
     }
 }
+
+//add alguma coisa
