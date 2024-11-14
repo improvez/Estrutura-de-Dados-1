@@ -84,3 +84,8 @@ Counting Sort
 Implementar a arvore binario pagina 150
 
 Pesquisar sobre herança no paradigma orientado a objeto.
+
+# Team
+Arvore de busca binaria manuscrito 
+
+167 - 168
